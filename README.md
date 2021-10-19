@@ -4,7 +4,7 @@ Monokai color scheme for Vim forked from [vim-monokai](https://github.com/sickil
 
 ## Screenshots
 
-![Mobokai in Vim](https://i.imgur.com/NPX2MXM.png)
+![Mobokai in NeoVim](https://i.imgur.com/HdfFzla.png)
 
 
 ## Installation
